@@ -9,6 +9,7 @@ Técnico en Programación de Software (SENA, 2025) y actualmente cursando el Tec
 - PHP · Laravel
 - Kotlin · Android
 - Git · GitHub
+- Python - Django
 
 ## 🚀 Proyectos
 
